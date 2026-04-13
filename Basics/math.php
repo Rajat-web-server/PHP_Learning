@@ -28,6 +28,6 @@ $volume=4/3*pi()*pow($radius,3);
 $volume=round($volume,3);
 
 echo"Circumference = {$circumference}cm <br>";
-echo"Area = {$area}cm <br>";
-echo"Volume = {$volume}cm <br>";
+echo"Area = {$area}cm^2 <br>";
+echo"Volume = {$volume}cm^3 <br>";
 ?>
